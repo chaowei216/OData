@@ -1,0 +1,15 @@
+D:\RoadToDev\C#\ODataExample\OData.Service\bin\Debug\net8.0\OData.Service.deps.json
+D:\RoadToDev\C#\ODataExample\OData.Service\bin\Debug\net8.0\OData.Service.dll
+D:\RoadToDev\C#\ODataExample\OData.Service\bin\Debug\net8.0\OData.Service.pdb
+D:\RoadToDev\C#\ODataExample\OData.Service\bin\Debug\net8.0\OData.Data.dll
+D:\RoadToDev\C#\ODataExample\OData.Service\bin\Debug\net8.0\OData.Data.pdb
+D:\RoadToDev\C#\ODataExample\OData.Service\obj\Debug\net8.0\OData.Service.csproj.AssemblyReference.cache
+D:\RoadToDev\C#\ODataExample\OData.Service\obj\Debug\net8.0\OData.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\RoadToDev\C#\ODataExample\OData.Service\obj\Debug\net8.0\OData.Service.AssemblyInfoInputs.cache
+D:\RoadToDev\C#\ODataExample\OData.Service\obj\Debug\net8.0\OData.Service.AssemblyInfo.cs
+D:\RoadToDev\C#\ODataExample\OData.Service\obj\Debug\net8.0\OData.Service.csproj.CoreCompileInputs.cache
+D:\RoadToDev\C#\ODataExample\OData.Service\obj\Debug\net8.0\OData.Service.csproj.CopyComplete
+D:\RoadToDev\C#\ODataExample\OData.Service\obj\Debug\net8.0\OData.Service.dll
+D:\RoadToDev\C#\ODataExample\OData.Service\obj\Debug\net8.0\refint\OData.Service.dll
+D:\RoadToDev\C#\ODataExample\OData.Service\obj\Debug\net8.0\OData.Service.pdb
+D:\RoadToDev\C#\ODataExample\OData.Service\obj\Debug\net8.0\ref\OData.Service.dll

@@ -1,0 +1,6 @@
+@OData.API_HostAddress = http://localhost:5216
+
+GET {{OData.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

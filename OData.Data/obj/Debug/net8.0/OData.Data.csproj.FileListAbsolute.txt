@@ -1,0 +1,14 @@
+D:\RoadToDev\C#\ODataExample\OData.Data\bin\Debug\net8.0\OData.Data.deps.json
+D:\RoadToDev\C#\ODataExample\OData.Data\bin\Debug\net8.0\OData.Data.runtimeconfig.json
+D:\RoadToDev\C#\ODataExample\OData.Data\bin\Debug\net8.0\OData.Data.dll
+D:\RoadToDev\C#\ODataExample\OData.Data\bin\Debug\net8.0\OData.Data.pdb
+D:\RoadToDev\C#\ODataExample\OData.Data\obj\Debug\net8.0\OData.Data.csproj.AssemblyReference.cache
+D:\RoadToDev\C#\ODataExample\OData.Data\obj\Debug\net8.0\OData.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\RoadToDev\C#\ODataExample\OData.Data\obj\Debug\net8.0\OData.Data.AssemblyInfoInputs.cache
+D:\RoadToDev\C#\ODataExample\OData.Data\obj\Debug\net8.0\OData.Data.AssemblyInfo.cs
+D:\RoadToDev\C#\ODataExample\OData.Data\obj\Debug\net8.0\OData.Data.csproj.CoreCompileInputs.cache
+D:\RoadToDev\C#\ODataExample\OData.Data\obj\Debug\net8.0\OData.Data.dll
+D:\RoadToDev\C#\ODataExample\OData.Data\obj\Debug\net8.0\refint\OData.Data.dll
+D:\RoadToDev\C#\ODataExample\OData.Data\obj\Debug\net8.0\OData.Data.pdb
+D:\RoadToDev\C#\ODataExample\OData.Data\obj\Debug\net8.0\OData.Data.genruntimeconfig.cache
+D:\RoadToDev\C#\ODataExample\OData.Data\obj\Debug\net8.0\ref\OData.Data.dll
