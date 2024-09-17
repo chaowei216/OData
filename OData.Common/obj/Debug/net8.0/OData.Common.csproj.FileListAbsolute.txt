@@ -1,0 +1,12 @@
+D:\RoadToDev\C#\ODataExample\OData.Common\bin\Debug\net8.0\OData.Common.deps.json
+D:\RoadToDev\C#\ODataExample\OData.Common\bin\Debug\net8.0\OData.Common.dll
+D:\RoadToDev\C#\ODataExample\OData.Common\bin\Debug\net8.0\OData.Common.pdb
+D:\RoadToDev\C#\ODataExample\OData.Common\obj\Debug\net8.0\OData.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\RoadToDev\C#\ODataExample\OData.Common\obj\Debug\net8.0\OData.Common.AssemblyInfoInputs.cache
+D:\RoadToDev\C#\ODataExample\OData.Common\obj\Debug\net8.0\OData.Common.AssemblyInfo.cs
+D:\RoadToDev\C#\ODataExample\OData.Common\obj\Debug\net8.0\OData.Common.csproj.CoreCompileInputs.cache
+D:\RoadToDev\C#\ODataExample\OData.Common\obj\Debug\net8.0\OData.Common.sourcelink.json
+D:\RoadToDev\C#\ODataExample\OData.Common\obj\Debug\net8.0\OData.Common.dll
+D:\RoadToDev\C#\ODataExample\OData.Common\obj\Debug\net8.0\refint\OData.Common.dll
+D:\RoadToDev\C#\ODataExample\OData.Common\obj\Debug\net8.0\OData.Common.pdb
+D:\RoadToDev\C#\ODataExample\OData.Common\obj\Debug\net8.0\ref\OData.Common.dll

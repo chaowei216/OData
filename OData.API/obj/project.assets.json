@@ -1825,6 +1825,16 @@
           }
         }
       },
+      "OData.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/OData.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OData.Common.dll": {}
+        }
+      },
       "OData.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -5135,6 +5145,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "OData.Common/1.0.0": {
+      "type": "project",
+      "path": "../OData.Common/OData.Common.csproj",
+      "msbuildProject": "../OData.Common/OData.Common.csproj"
+    },
     "OData.Data/1.0.0": {
       "type": "project",
       "path": "../OData.Data/OData.Data.csproj",
@@ -5150,6 +5165,7 @@
     "net8.0": [
       "Microsoft.AspNetCore.OData >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.8",
+      "OData.Common >= 1.0.0",
       "OData.Service >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -5186,6 +5202,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "D:\\RoadToDev\\C#\\ODataExample\\OData.Common\\OData.Common.csproj": {
+              "projectPath": "D:\\RoadToDev\\C#\\ODataExample\\OData.Common\\OData.Common.csproj"
+            },
             "D:\\RoadToDev\\C#\\ODataExample\\OData.Service\\OData.Service.csproj": {
               "projectPath": "D:\\RoadToDev\\C#\\ODataExample\\OData.Service\\OData.Service.csproj"
             }

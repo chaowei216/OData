@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\OData.Common\OData.Common.csproj" />
     <ProjectReference Include="..\OData.Service\OData.Service.csproj" />
   </ItemGroup>
 

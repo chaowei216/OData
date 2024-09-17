@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OData.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14d2100c0bc467074da6b143ba6a0f07c9a6839d")]
 [assembly: System.Reflection.AssemblyProductAttribute("OData.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OData.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
